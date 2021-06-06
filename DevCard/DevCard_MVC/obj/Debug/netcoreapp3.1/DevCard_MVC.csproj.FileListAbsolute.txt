@@ -221,3 +221,4 @@ C:\Users\HelpDesk\Source\DevCard\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Dev
 C:\Users\HelpDesk\Source\DevCard\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.pdb
 C:\Users\HelpDesk\Source\DevCard\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\DevCard_MVC.genruntimeconfig.cache
 C:\Users\HelpDesk\Source\DevCard\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\Projects\_Projects.cshtml.g.cs
+C:\Users\HelpDesk\Source\DevCard\DevCard\DevCard_MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Components\LatestArticles\_LatestArticles.cshtml.g.cs

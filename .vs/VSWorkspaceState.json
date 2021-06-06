@@ -1,6 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\DevCard",
+    "\\DevCard\\DevCard_MVC\\ViewComponents"
   ],
+  "SelectedNode": "\\DevCard\\DevCard.sln",
   "PreviewInSolutionExplorer": false
 }
