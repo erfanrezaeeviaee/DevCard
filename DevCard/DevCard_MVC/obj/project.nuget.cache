@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qoseez/+YoZRDr/MlJBmEik9LeZvAg1WnxjKeoRptMgrlv9GQ7k9C9+fOVAlAuHiY6NUNxqFfbec0x0WcqAOrw==",
+  "dgSpecHash": "NEZPg4eLVxQBncy73cK8NHoHb+F9XGvCN6RzyO8FFxjZ+ms2m7JB76W8tH9CX5Nk8t3Xdafcv8BvoEKeBzMaHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HelpDesk\\Source\\Repos\\erfanrezaeeviaee\\DevCard\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
+  "projectFilePath": "C:\\Users\\HelpDesk\\Source\\DevCard\\DevCard\\DevCard_MVC\\DevCard_MVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HelpDesk\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\HelpDesk\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
