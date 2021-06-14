@@ -2,6 +2,7 @@
 using DevCard_MVC.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using DevCard_MVC.Data;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
 namespace DevCard_MVC.Controllers
@@ -52,6 +53,12 @@ namespace DevCard_MVC.Controllers
 
         ViewBag.success = "اطلاعات به درستی وارد شد. باتشکر";
             return View(model);
+        }
+
+        public IActionResult ProjectDetails(long id)
+        {
+            var project = ProjectStore.GetProjectBy(id);
+            return View(project);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
